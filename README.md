@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="40%" valign="center">
-      <img src="character.png" alt="Anas Kartaoui" title="Anas Kartaoui" width="100%"/>
+      <img src="character.png" alt="Anas Kartaoui" title="Anas Kartaoui" width="200%"/>
     </td>
     <td valign="center">
       <h1 align="center">Hey there!</h1>
