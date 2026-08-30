@@ -1,7 +1,12 @@
 <table>
   <tr>
     <td width="40%" valign="center">
-      <img src="character.png" alt="Anas Kartaoui" title="Anas Kartaoui" width="200%"/>
+      <img
+  src="character.png"
+  alt="Moul Casquette"
+  title="Moul Casquette"
+  style="width: 350px; max-width: 100%; height: auto;"
+/>
     </td>
     <td valign="center">
       <h1 align="center">Hey there!</h1>
